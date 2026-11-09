@@ -1,0 +1,5 @@
+mission_id,rocket_name,launch_site,max_altitude_km,max_velocity_mps,max_q_kpa,flight_time_s,status
+MSN-001,Educational Sounding Rocket,Kennedy Space Center (LC-39A),70.33,1154.2,42.8,350.0,SUCCESS_TOUCHDOWN
+MSN-002,Falcon 9 Medium-Lift (2-Stage),Cape Canaveral SLC-40,248.50,3420.0,38.5,420.0,ORBIT_INSERTION
+MSN-003,Artemis SLS Deep Space,Kennedy Space Center (LC-39A),412.30,4890.0,46.2,500.0,LUNAR_TRAJECTORY
+
